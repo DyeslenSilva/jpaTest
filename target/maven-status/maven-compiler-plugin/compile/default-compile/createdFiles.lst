@@ -1,0 +1,7 @@
+br\com\jpa\banco\interfaces\CadClientes$2.class
+PersistenceJPA.class
+br\com\jpa\banco\persist\ClientDAO.class
+br\com\jpa\banco\model\Clients.class
+br\com\jpa\banco\test\ClientTest.class
+br\com\jpa\banco\interfaces\CadClientes$1.class
+br\com\jpa\banco\interfaces\CadClientes.class
